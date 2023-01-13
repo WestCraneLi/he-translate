@@ -1,7 +1,7 @@
 # he-translate
 一个基于node环境下的终端翻译cli工具
 # 安装
-* ```npm init```
+* ```npm install```
 # 运行
 * ```translate 单词|中文```
 # 参考
